@@ -1,0 +1,266 @@
+﻿body
+	{
+		background-image: url("Image/Shape14.png");
+		background-repeat: repeat-none;
+		width: 100%;
+		min-height:300px; 
+		min-width: 1000px;
+        padding: 0px;
+        margin: 0px;
+	}
+
+
+	{
+		width: 1349px;
+	}
+    .header
+    {
+        background-color: #009688;
+        height: 170px;
+        width: 1349px;  
+    }
+    .header_khungtext
+    {
+    	float: right;
+    	height: 160px;
+    	width: 1185px;
+    	position: relative;
+    	bottom:  155px;
+    }
+    .logo
+    {
+    	background-image: url("Image/logo.png");
+    	height: 155px;
+    	width: 163px;
+    	position: relative;
+    	top: 10px;
+    	left: 10px;
+    }
+    .header_khungtext_khungtextrun 
+    {
+    	height: 35px;
+    	width: 959px;
+    	margin-left: 16px;
+    	position: relative;
+    	top: 7px;
+    }
+    .header_khungtext_textrun
+    {
+    	color: #FC0;
+    	font-size: 25px;
+    	position: relative;
+    	top: 5px;
+    	left: 6px;
+    }
+   	hr
+    {
+    	border: 1px solid #FA8258;
+    	width: 955px;
+    	position: relative;
+    	right: 90px;
+    	top: 5px;
+    }
+    .header_khungtext_text
+    {
+    	color: white;
+    	font-size: 55px;
+    	font-family: cursive;
+    	padding-left: 40px;
+    	padding-top: 11px;
+    }
+    .khungdangnhap
+    {
+    	background-color: #6DA6CA;
+    	position: relative;
+    	border-radius: 10px;
+    	left: 995px;
+    	bottom: 131px;
+    	width: 180px;
+    	height: 150px;
+    }
+    #box_dangnhap
+    {
+    	background-color: #F0E8F1;
+    	width: 145px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 12px;
+    	left: 12px;
+    	color: green;
+        padding-left: 5px;
+    }
+    #box_pass
+    {
+    	background-color: #F0E8F1;
+    	width: 147px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 23px;
+    	left: 12px;
+    	color: green;
+        padding-left: 5px;
+    }
+    #button_dn
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 40px;
+    	left: 15px;
+
+    }
+    #button_dk
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	bottom:  -70px;
+    	right:  69px;
+
+    }
+    #image_finger
+    {
+    	background-image: url("Image/logo_finger.png");
+    	width: 62px;
+    	height: 62px;
+    	position: relative;
+    	top: 9px;
+    	left: 105px;
+    }
+    .khungbody
+    {
+    	/*background-color: #AEC5D1;*/
+    	width: 1330px;
+    	min-height: 420px;
+    	position: relative;
+    	top: -134px;
+    	left: 10px;
+    	clear: both;
+    }
+    
+    .khung_dangnhap
+    {
+       /* background-color: #584FFC;*/
+        width: 700px;
+        height: 300px;
+        margin-left: 310px;
+        margin-top: 200px;
+    }
+    .title_dangnhap1
+    {
+        /*background-color: green;*/
+        width: 700px;
+        height: 50px;
+        font-size: 40px;
+        text-align: center;
+        font-family: cursive ;
+        color: #090285;
+
+    }
+    .khung_username_pass
+    {
+        /*background-color: green;*/
+        width: 150px;
+        height: 100px;
+        margin-left: 70px;
+        margin-top: 30px;
+    }
+    .khung_nhap
+    {
+        /*background-color: yellow;*/
+        width: 500px;
+        height: 100px;
+        float: right;
+        margin-top: -100px;
+        margin-right: -30px;
+    }
+    .username
+    {
+        /*background-color: white;*/
+        width: 150px;
+        height: 45px;
+        font-size: 22px;
+        text-align: right;
+            }
+    .password_text
+    {
+        /*background-color: red;*/
+        width: 150px;
+        height: 45px;
+        margin-top: 3px;
+        font-size: 22px;
+        text-align: right;
+    }
+    .nhap_username
+    {
+        /*background-color: white;*/
+        width: 350px;
+        height: 30px;
+        font-size: 20px;
+        padding-left: 10px;
+        
+        border-radius: 5px;
+
+    }
+    .nhap_pass
+    {
+        background-color: white;
+        width: 350px;
+        height: 30px;
+        margin-top: 10px;
+        padding-left: 10px;
+        
+        border-radius: 5px;
+
+    }
+    .ghinhodangnhap
+    {
+        /*background-color: green;*/
+        width: 200px;
+        height: 40px;
+        margin-top: 5px;
+        font-size: 20px;
+        padding-left: 260px;
+    }
+    .button_dangnhap
+    {
+        background-color: #009688;
+        width: 140px;
+        height: 50px;
+        font-size: 22px;
+        border-radius: 5px;
+        margin-left: 280px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    #background_footer
+    {
+    	background-image: url("Image/footer.png");
+    	width: 1330px;
+    	height: 297px;
+    	margin-top: -360px;
+        margin-left: 10px;
+    }
+
+
+

@@ -1,0 +1,402 @@
+﻿body
+	{
+		background-image: url("Image/Shape14.png");
+		background-repeat: repeat-none;
+		width: 100%;
+		min-height:1000px; 
+		min-width: 1000px;
+        padding: 0px;
+        margin: 0px;
+	}
+
+
+	{
+		width: 1349px;
+	}
+    .header
+    {
+        background-color: #009688;
+        height: 170px;
+        width: 1349px;  
+    }
+    .header_khungtext
+    {
+    	float: right;
+    	height: 160px;
+    	width: 1185px;
+    	position: relative;
+    	bottom:  155px;
+    }
+    .logo
+    {
+    	background-image: url("Image/logo - Copy.png");
+    	height: 155px;
+    	width: 163px;
+    	position: relative;
+    	top: 10px;
+    	left: 10px;
+    }
+    .header_khungtext_khungtextrun 
+    {
+    	height: 35px;
+    	width: 959px;
+    	margin-left: 16px;
+    	position: relative;
+    	top: 7px;
+    }
+    .header_khungtext_textrun
+    {
+    	color: #FC0;
+    	font-size: 25px;
+    	position: relative;
+    	top: 5px;
+    	left: 6px;
+    }
+   	hr
+    {
+    	border: 1px solid #FA8258;
+    	width: 955px;
+    	position: relative;
+    	right: 90px;
+    	top: 5px;
+    }
+    .header_khungtext_text
+    {
+    	color: white;
+    	font-size: 55px;
+    	font-family: cursive;
+    	padding-left: 40px;
+    	padding-top: 11px;
+    }
+    .khungdangnhap
+    {
+    	background-color: #6DA6CA;
+    	position: relative;
+    	border-radius: 10px;
+    	left: 995px;
+    	bottom: 131px;
+    	width: 180px;
+    	height: 150px;
+    }
+    #box_dangnhap
+    {
+    	background-color: #F0E8F1;
+    	width: 150px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 12px;
+    	left: 12px;
+    	color: green;
+    }
+    #box_pass
+    {
+    	background-color: #F0E8F1;
+    	width: 152px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 23px;
+    	left: 12px;
+   
+    }
+    #button_dn
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 40px;
+    	left: 15px;
+
+    }
+    #button_dk
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	bottom:  -70px;
+    	right:  69px;
+
+    }
+    #image_finger
+    {
+    	background-image: url("Image/logo_finger.png");
+    	width: 62px;
+    	height: 62px;
+    	position: relative;
+    	top: 9px;
+    	left: 105px;
+    }
+    .khungbody
+    {
+    	background-color: #AEC5D1;
+    	width: 1330px;
+    	min-height: 1000px;
+    	position: relative;
+    	top: -134px;
+    	left: 10px;
+    	clear: both;
+    }
+    .khung_dacap
+    {
+    	background-color:  /*#eee;*/ #BC4F4F;
+    	height: 40px;
+    	width: 1330px;
+  
+    }
+    .learnbetter-logo
+    {
+    	height: 40px;
+    	width: 158px;
+    	
+    }
+    #menu_text
+    {
+    	text-decoration: none;
+    	color: white;
+    	position: relative;
+    	top: -12px;
+    	left: 30px;
+    	font-size: 18px;
+    	text-align: center;
+    	padding-top: 10px;
+
+    	border-radius: 5px;
+    	margin-left: -25px;
+    }
+    .thanhcheo
+    {
+    	margin-left:  30px;
+    }
+   	#seachbox
+   	{
+   		float: right;
+   		background-color: #F0E8F1; 
+   		height: 25px;
+   		width: 160px;
+   		border-radius: 5px;
+   		margin-right: 5px;
+   		margin-top: 7px;
+   		border: none;
+   	}
+   	.menu
+   	{
+		position: relative;
+		display: inline-block;
+	}
+	.dropmn
+	{
+		position: absolute;
+		display: none;
+		width: 200px;
+
+	}
+
+	.dropmn>a
+	{
+		background-color: #BC4F4F;
+		background-color: red repeat;
+		display: block;
+		padding: 10px 5px;
+		border-bottom: 0.5px solid pink; 
+		overflow: hidden;
+		height: 17px;
+		text-decoration:none;
+		font-size: 18px;
+		padding-left: 20px;
+		color: white;
+	}
+	.menu:hover .dropmn
+	{
+		display: block;
+	}
+	.dropmn a:hover
+	{
+		background-color: #CE6B6B ;
+	}
+	.menu_text:hover
+	{
+		background-color: white;
+	
+	}
+	.khunganh_quangcao
+	{
+		background-color: yellow;
+		width: 1330px;
+		height: 463px;
+		margin-top: 12px;
+	}
+    .khungtracuudiem
+    {
+        background-color: white;
+        width: 850px;
+        height: 700px;
+        margin-left: 245px;
+        margin-top: 10px;
+    }
+    .khung_logo
+    {
+        background-image: url("Image/logo.png");
+        width: 126px;
+        height: 120px;
+        margin-left: 362px;
+    }
+    .khungtracuudiem_title
+    {
+        /*background-color: green;*/
+        width: 850px;
+        height: 35px;
+        text-align:center;
+        font-size: 40px;
+        font-family: sans-serif;
+        color: #AE8925;
+    }
+    .khungtracuudiem_dienthoaihotro
+    {
+        /*background-color: red;*/
+        height: 35px;
+        width: 450px;
+        font-size: 30px;
+        margin-top: 23px;
+        margin-left: 200px;
+    }
+    #image_phone
+    {
+        
+        width: 41px;
+        height: 35px;
+        
+    }
+    .khungtimkiem
+    {
+        /*background-color: green;*/
+        width: 750px;
+        height: 220px;
+        margin-top: 16px;
+        margin-left: 50px;
+    }
+    #thanh_br
+    {
+        background-color: red;
+        width: 748px;
+        height: 2px;
+        margin-left: 90px;
+    }
+    .khungtimkiem_khungto
+    {
+        /*background-color: red;*/
+        width: 750px;
+        height: 100px;
+        margin-top: 20px;
+    }
+    #khungtimkiem_khungnho_hovaten
+    {
+        /*background-color: white;*/
+        width: 350px;
+        height: 85px;
+        font-size: 30px;
+        font-family: cursive;
+    }
+    #khungtimkiem_khungnho_SBD
+    {
+       /* background-color: white;*/
+        width: 350px;
+        height: 85px;
+        float: right;
+        margin-top: -85px;
+        font-size: 30px;
+        font-family: cursive;
+    }
+    .khungtimkiem_khungnho_seachbox
+    {
+        background-color: white;
+        width: 345px;
+        height: 40px;
+        margin-top: 5px;
+        font-size:15px;
+        border-radius: 5px;
+    }
+    #khungtimkiem_khungnho
+    {
+        background-color: red;
+        width: 750px;
+        height: 100px;
+        font-size: 30px;
+        margin-top: 35px;
+        font-family: cursive;
+    }
+    .khungtimkiem_khungto_seachbox
+    {
+        background-color: white;
+        width: 345px;
+        height: 40px;
+        margin-top: 5px;
+        font-size:15px;
+        border-radius: 5px;
+    }
+    #button_tradiem
+    {
+        background-color: #37CD5F;
+        width: 180px;
+        height: 60px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 30px;
+        margin-left: 330px;
+        font-size: 25px;
+        color: white;
+    }
+    .khungthongtin
+    {
+       /* background-color: green;*/
+        width: 850px;
+        height: 100px;
+        font-size: 20px;
+        text-align: center;
+        margin-top: 30px;
+        color: #7E7F7E;
+    }
+    #thanh_hr
+    {
+        width: 780px;
+        height: 1px;
+        margin-left: 124px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .khung_footer
+    {
+    	/*background-color: #CCD673;*/
+    	width: 1330px;
+    	height: 207px;
+    	position: relative;
+    	top:   -100px;
+    	left: 10px;
+    }
+
+    #background_footer
+    {
+    	background-image: url("Image/footer.png");
+    	width: 1330px;
+    	height: 297px;
+    	margin-top: -330px;
+
+    }
+
+
+

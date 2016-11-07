@@ -1,0 +1,387 @@
+body
+    {
+        background-image: url("Image/Shape14.png");
+        background-repeat: repeat-none;
+        width: 100%;
+        min-height:1000px; 
+        min-width: 1000px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+
+    {
+        width: 1349px;
+    }
+    .header
+    {
+        background-color: #009688;
+        height: 170px;
+        width: 1349px;  
+    }
+    .header_khungtext
+    {
+        float: right;
+        height: 160px;
+        width: 1185px;
+        position: relative;
+        bottom:  155px;
+    }
+    .logo
+    {
+        background-image: url("Image/logo.png");
+        height: 155px;
+        width: 163px;
+        position: relative;
+        top: 10px;
+        left: 10px;
+    }
+    .header_khungtext_khungtextrun 
+    {
+        height: 35px;
+        width: 959px;
+        margin-left: 16px;
+        position: relative;
+        top: 7px;
+    }
+    .header_khungtext_textrun
+    {
+        color: #FC0;
+        font-size: 25px;
+        position: relative;
+        top: 5px;
+        left: 6px;
+    }
+    hr
+    {
+        border: 1px solid #FA8258;
+        width: 955px;
+        position: relative;
+        right: 90px;
+        top: 5px;
+    }
+    .header_khungtext_text
+    {
+        color: white;
+        font-size: 55px;
+        font-family: cursive;
+        padding-left: 40px;
+        padding-top: 11px;
+    }
+    .khungdangnhap
+    {
+        background-color: #6DA6CA;
+        position: relative;
+        border-radius: 10px;
+        left: 995px;
+        bottom: 131px;
+        width: 180px;
+        height: 150px;
+    }
+    #box_dangnhap
+    {
+        background-color: #F0E8F1;
+        width: 150px;
+        height: 20px;
+        border-radius: 5px;
+        position: relative;
+        top: 12px;
+        left: 12px;
+        color: green;
+    }
+    #box_pass
+    {
+        background-color: #F0E8F1;
+        width: 152px;
+        height: 20px;
+        border-radius: 5px;
+        position: relative;
+        top: 23px;
+        left: 12px;
+        color: green;
+    }
+    #button_dn
+    {
+        background-color: #9DD0DA;
+        width: 79px;
+        height: 23px;
+        border-radius: 5px;
+        position: relative;
+        top: 40px;
+        left: 15px;
+
+    }
+    #button_dk
+    {
+        background-color: #9DD0DA;
+        width: 79px;
+        height: 23px;
+        border-radius: 5px;
+        position: relative;
+        bottom:  -70px;
+        right:  69px;
+
+    }
+    #image_finger
+    {
+        background-image: url("Image/logo_finger.png");
+        width: 62px;
+        height: 62px;
+        position: relative;
+        top: 9px;
+        left: 105px;
+    }
+    .khungbody
+    {
+        /*background-color: #AEC5D1;*/
+        width: 1330px;
+        min-height: 600px;
+        position: relative;
+        top: -134px;
+        left: 10px;
+        clear: both;
+    }
+    .khung_dacap
+    {
+        background-color:  /*#eee;*/ #BC4F4F;
+        height: 40px;
+        width: 1330px;
+  
+    }
+    .learnbetter-logo
+    {
+        height: 40px;
+        width: 158px;
+        
+    }
+    #menu_text
+    {
+        text-decoration: none;
+        color: white;
+        position: relative;
+        top: -12px;
+        left: 30px;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 10px;
+
+        border-radius: 5px;
+        margin-left: -25px;
+    }
+    .thanhcheo
+    {
+        margin-left:  30px;
+    }
+    #seachbox
+    {
+        float: right;
+        background-color: #F0E8F1; 
+        height: 25px;
+        width: 160px;
+        border-radius: 5px;
+        margin-right: 5px;
+        margin-top: 7px;
+        border: none;
+    }
+    .menu
+    {
+        position: relative;
+        display: inline-block;
+    }
+    .dropmn
+    {
+        position: absolute;
+        display: none;
+        width: 200px;
+
+    }
+
+    .dropmn>a
+    {
+        background-color: #BC4F4F;
+        background-color: red repeat;
+        display: block;
+        padding: 10px 5px;
+        border-bottom: 0.5px solid pink; 
+        overflow: hidden;
+        height: 17px;
+        text-decoration:none;
+        font-size: 18px;
+        padding-left: 20px;
+        color: white;
+    }
+    .menu:hover .dropmn
+    {
+        display: block;
+    }
+    .dropmn a:hover
+    {
+        background-color: #CE6B6B ;
+    }
+    .menu_text:hover
+    {
+        background-color: white;
+    
+    }
+    .khungthi
+    {
+        background-image: url("Image/background1.jpg");
+        width: 1067px;
+        height: 585px;
+        margin-top: 50px;
+        margin-left: 130px;
+        padding-top: 15px;
+    }
+    .khung_cauhoi
+    {
+        /*background-color: green;*/
+        width: 189px;
+        height: 590px;
+        margin-left: 10px;
+    }
+    .khung_socauhoi
+    {
+        background-image: url("Image/ic_list_button.png");
+        width: 189px;
+        height: 496px;
+        
+    }
+    .nut_nopbai
+    {
+        background-color: #528CBA;
+        width: 155px;
+        height: 60px;
+        margin-top: 10px;
+        margin-left: 17px;
+        font-size: 30px;
+        border-radius: 30px;
+        border: none;
+        color: white;
+    }
+    .khung_thi
+    {
+        /*background-color: pink;*/
+        height: 580px;
+        width: 845px;
+        float: right;
+        margin-top: -590px;
+    }
+    .khung_hienthicauhoi
+    {
+        /*background-color: green;*/
+        height: 580px;
+        width: 600px;
+        padding-top: 8px;
+    }
+    .khung_hienthithongtin
+    {
+        /*background-color: yellow;*/
+        height: 580px;
+        width: 230px;
+        float: right;
+        margin-top: -520px;
+    }
+    .khung_tieudetrangweb
+    {
+        background-image: url("Image/title.png");
+        width: 570px;
+        height: 54px;
+        margin-left: 15px;
+        
+    }
+    .khung_thichinh
+    {
+        background-image: url("Image/ic_khungthi.png");
+        width: 560px;
+        height: 409px;
+        margin-top: 22px;
+        margin-left: 20px;
+    }
+    .nut_quaylai
+    {
+        background-image: url("Image/nut quay lai.png");
+        width: 111px;
+        height: 46px;
+        margin-top: 20px;
+        margin-left: 60px;
+        border: none;
+    }
+    .nut_chuyentiep
+    {
+        background-image: url("Image/nut chuyen tiep.png");
+        width: 120px;
+        height: 46px;
+        margin-top: -47px;
+        margin-left: 50px;
+        border: none;
+    }
+    .khung_autonext
+    {
+       /* background-color: yellow;*/
+        width: 180px;
+        height: 46px;
+        margin-top: -47px;
+        margin-left: 390px;
+        color: #782190;
+        font-size: 20px;
+        
+    }
+    .nut_autonext
+    {
+        margin-top: 15px;
+    }
+    .khung_thongtinthisinh
+    {
+        background-image: url("Image/ic_info1.png");
+        width: 207px;
+        height: 195px;
+    }
+    .khung_thongtinbaithi
+    {
+        background-image: url("Image/ic_info2.png");
+        width: 207px;
+        height: 195px;
+    }
+    .khungthoigian
+    {
+        background-image: url("Image/khungthoigian.png");
+        width: 156px;
+        height: 70px;
+        margin-left: 27px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .khung_footer
+    {
+        background-color: #009688;
+        width: 1330px;
+        height: 150px;
+        
+        margin-top: -90px;
+        margin-left: 10px;
+    }
+    .hr_footer
+    {
+        width: 1060px;
+        position: relative;
+        top: 50px;
+        left: 130px;
+        border: 1.3px solid white;
+    }
+
+    
+
+
+

@@ -1,0 +1,364 @@
+﻿body
+	{
+		background-image: url("Image/Shape14.png");
+		background-repeat: repeat-none;
+		width: 100%;
+		min-height:1000px; 
+		min-width: 1000px;
+        padding: 0px;
+        margin: 0px;
+	}
+
+
+	{
+		width: 1349px;
+	}
+    .header
+    {
+        background-color: #009688;
+        height: 170px;
+        width: 1349px;  
+    }
+    .header_khungtext
+    {
+    	float: right;
+    	height: 160px;
+    	width: 1185px;
+    	position: relative;
+    	bottom:  155px;
+    }
+    .logo
+    {
+    	background-image: url("Image/logo.png");
+    	height: 155px;
+    	width: 163px;
+    	position: relative;
+    	top: 10px;
+    	left: 10px;
+    }
+    .header_khungtext_khungtextrun 
+    {
+    	height: 35px;
+    	width: 959px;
+    	margin-left: 16px;
+    	position: relative;
+    	top: 7px;
+    }
+    .header_khungtext_textrun
+    {
+    	color: #FC0;
+    	font-size: 25px;
+    	position: relative;
+    	top: 5px;
+    	left: 6px;
+    }
+   	hr
+    {
+    	border: 1px solid #FA8258;
+    	width: 955px;
+    	position: relative;
+    	right: 90px;
+    	top: 5px;
+    }
+    .header_khungtext_text
+    {
+    	color: white;
+    	font-size: 55px;
+    	font-family: cursive;
+    	padding-left: 40px;
+    	padding-top: 11px;
+    }
+    .khungdangnhap
+    {
+    	background-color: #6DA6CA;
+    	position: relative;
+    	border-radius: 10px;
+    	left: 995px;
+    	bottom: 131px;
+    	width: 180px;
+    	height: 150px;
+    }
+    #box_dangnhap
+    {
+    	background-color: #F0E8F1;
+    	width: 150px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 12px;
+    	left: 12px;
+    	color: green;
+    }
+    #box_pass
+    {
+    	background-color: #F0E8F1;
+    	width: 152px;
+    	height: 20px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 23px;
+    	left: 12px;
+    	color: green;
+    }
+    #button_dn
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	top: 40px;
+    	left: 15px;
+
+    }
+    #button_dk
+    {
+    	background-color: #9DD0DA;
+    	width: 79px;
+    	height: 23px;
+    	border-radius: 5px;
+    	position: relative;
+    	bottom:  -70px;
+    	right:  69px;
+
+    }
+    #image_finger
+    {
+    	background-image: url("Image/logo_finger.png");
+    	width: 62px;
+    	height: 62px;
+    	position: relative;
+    	top: 9px;
+    	left: 105px;
+    }
+    .khungbody
+    {
+    	background-color: /*#AEC5D1*/ #58D3F7;
+    	width: 1330px;
+    	min-height: 1000px;
+    	position: relative;
+    	top: -134px;
+    	left: 10px;
+    	clear: both;
+    }
+    .khung_dacap
+    {
+    	background-color:  /*#eee;*/ #BC4F4F;
+    	height: 40px;
+    	width: 1330px;
+  
+    }
+    .learnbetter-logo
+    {
+    	height: 40px;
+    	width: 158px;
+    	
+    }
+    #menu_text
+    {
+    	text-decoration: none;
+    	color: white;
+    	position: relative;
+    	top: -12px;
+    	left: 30px;
+    	font-size: 18px;
+    	text-align: center;
+    	padding-top: 10px;
+
+    	border-radius: 5px;
+    	margin-left: -25px;
+    }
+    .thanhcheo
+    {
+    	margin-left:  30px;
+    }
+   	#seachbox
+   	{
+   		float: right;
+   		background-color: #F0E8F1; 
+   		height: 25px;
+   		width: 160px;
+   		border-radius: 5px;
+   		margin-right: 5px;
+   		margin-top: 7px;
+   		border: none;
+   	}
+   	.menu
+   	{
+		position: relative;
+		display: inline-block;
+	}
+	.dropmn
+	{
+		position: absolute;
+		display: none;
+		width: 200px;
+
+	}
+
+	.dropmn>a
+	{
+		background-color: #BC4F4F;
+		background-color: red repeat;
+		display: block;
+		padding: 10px 5px;
+		border-bottom: 0.5px solid pink; 
+		overflow: hidden;
+		height: 17px;
+		text-decoration:none;
+		font-size: 18px;
+		padding-left: 20px;
+		color: white;
+	}
+	.menu:hover .dropmn
+	{
+		display: block;
+	}
+	.dropmn a:hover
+	{
+		background-color: #CE6B6B ;
+	}
+	.menu_text:hover
+	{
+		background-color: white;
+	
+	}
+	.khunganh_quangcao
+	{
+		background-color: yellow;
+		width: 1330px;
+		height: 463px;
+		margin-top: 12px;
+	}
+    .khung_gopy
+    {
+        background-color: white;
+        width: 700px;
+        height: 1800px;
+        margin-left:  140px;
+        margin-top: 70px;
+    }   
+    .khung_quangcao
+    {
+        background-color: white;
+        width: 330px;
+        height: 800px;
+        float: right;
+        margin-top: -1800px;
+        margin-right: 140px;
+    }
+    #anhdong
+    {
+        width: 700px;
+        height: 525px;
+    }
+    #anh_title_gopy
+    {
+        width: 500px;
+        height: 114px;
+        margin-left: 100px;
+    }
+    #khung_noidung_gopy
+    {
+        /*background-color: pink;*/
+        width: 600px;
+        height: 370px;
+        margin-left: 50px;
+        font-size: 25px;
+        font-family: Courier;
+        text-align: justify;
+        color: #8258FA;
+    }
+    .khung_gopy_nhaptext
+    {
+        /*background-color: pink;*/
+        height: 640px;
+        width: 500px;
+        margin-left: 100px;
+    }
+    #title_gopy
+    {
+        /*background-color: green;*/
+        width: 300px;
+        height: 40px;
+        margin-left: 100px;
+        margin-top: -40px;
+        padding-bottom: 20px;
+        font-size: 60px;
+        font-family: Courier;
+        text-align:center;
+        color: #FF8000;
+    }
+    #text_name
+    {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    #khung_name
+    {
+        background-color: #BCF5A9;
+        width: 300px;
+        height: 50px;
+        margin-top: 10px;
+        font-size: 25px;
+    }
+    #button_nutgui
+    {
+        background-color: #5858FA;
+        width: 130px;
+        height: 70px;
+        font-size: 40px;
+        font-family: Garamond;
+        margin-top: 30px;
+        margin-left: 200px;
+    }
+    #khung_ykien
+    {
+        background-color: #BCF5A9;
+        width: 400px;
+        height: 150px;
+        margin-top: 10px;
+        font-size: 25px;
+
+    }
+    #anh_title_camon
+    {
+        margin-left: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .khung_footer
+    {
+    	/*background-color: #CCD673;*/
+    	width: 1330px;
+    	height: 207px;
+    	position: relative;
+    	top:   -100px;
+    	left: 10px;
+    }
+
+
+    #background_footer
+    {
+    	background-image: url("Image/footer.png");
+    	width: 1330px;
+    	height: 297px;
+    	margin-top: -200px;
+
+    }
+
+
+

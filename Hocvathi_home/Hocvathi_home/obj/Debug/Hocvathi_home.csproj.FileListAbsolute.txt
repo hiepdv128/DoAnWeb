@@ -1,0 +1,6 @@
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\bin\Hocvathi_home.dll.config
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\bin\Hocvathi_home.dll
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\bin\Hocvathi_home.pdb
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\obj\Debug\Hocvathi_home.csprojResolveAssemblyReference.cache
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\obj\Debug\Hocvathi_home.dll
+C:\Users\Trang\Documents\Visual Studio 2013\Projects\Hocvathi\Hocvathi_home\Hocvathi_home\obj\Debug\Hocvathi_home.pdb
